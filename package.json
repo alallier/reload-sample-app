@@ -10,7 +10,7 @@
     "body-parser": "1.20.2",
     "morgan": "1.10.0",
     "nodemon": "3.1.4",
-    "reload": "3.2.2"
+    "reload": "3.3.0"
   },
   "private": true,
   "scripts": {
