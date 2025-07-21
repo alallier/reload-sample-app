@@ -7,7 +7,6 @@
   "main": "server.js",
   "dependencies": {
     "express": "4.19.2",
-    "body-parser": "1.20.2",
     "morgan": "1.10.1",
     "nodemon": "3.1.10",
     "reload": "3.4.2"
