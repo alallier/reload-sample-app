@@ -6,7 +6,7 @@
   "license": "",
   "main": "server.js",
   "dependencies": {
-    "express": "4.22.1",
+    "express": "5.2.1",
     "morgan": "1.10.1",
     "nodemon": "3.1.14",
     "reload": "3.4.3"
