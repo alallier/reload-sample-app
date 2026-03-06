@@ -9,7 +9,7 @@
     "express": "4.22.1",
     "morgan": "1.10.1",
     "nodemon": "3.1.14",
-    "reload": "3.4.2"
+    "reload": "3.4.3"
   },
   "private": true,
   "scripts": {
